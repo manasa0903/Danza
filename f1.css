@@ -1,0 +1,107 @@
+.header {
+	background-color: black;
+	color: white;
+	height: 90px;
+	display: block;
+ }
+.header-logo {
+	font-size: 36px;
+	padding: 20px 40px;
+	float: left;
+
+}
+.header-list {
+	float: right;
+	height: 100%;
+  }
+
+
+.header-list a {
+	height: 100%
+	display: table;
+	float: left;
+	padding: 0px 20px
+
+}
+.header-list a li {
+	display: table-cell;
+	vertical-align: middle;
+	height: 100%
+	color: white;
+	font-size: 20px;
+	font-family: Ebrima;
+
+
+}
+	
+body {
+	font-family: Bell MT;
+	
+}
+
+.header-list ul {
+	list-style: none;
+	float: left;
+	
+}
+
+.main {
+	padding: 100px 80px;
+	width: 100%;
+	background-image: url(poster.jpg);
+	background-size: cover;
+}
+.copy-container h1 {
+	font-size: 90px;
+	color: white;
+	font-family: Edwardian Script ITC;
+	margin-top: 0px;
+}
+.contents {
+	height: 500px;
+	margin-top: 100px;
+
+}
+.contents-item {
+	float: left;
+	margin-right: 130px;
+	color: white;
+	
+	
+}
+.contents-item p {
+	margin-top: 30px;
+	font-size: 24px; 
+	font-family: MV Boli;
+	text-align: center;
+}
+.input,.textarea {
+	width: 400px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	border: 1px solid #dee7ec;
+	padding: 20px;
+	font-size: 20px;
+	
+}
+.contact-submit {
+  background-color: #dee7ec;
+  color: #889eab;
+
+  }
+  .footer {
+  	background-color: black;
+  	color: white;
+  	height: 120px;
+  	padding: 40px;
+  	  }
+ .footer-logo {
+ 	font-size: 32px;
+ 	float: left;
+ } 	  
+ .footer-list {
+ 	float: right;
+ }
+ .footer-list li {
+ 	padding-bottom: 20px;
+ }
